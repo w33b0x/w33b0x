@@ -8,6 +8,16 @@ I discovered programming at 13 yo and was quickly fascinated by it. Since then, 
 
 I look forward to sharing my knowledge and experience with the GitHub developer community and contributing to exciting new projects. If you need a competent and passionate Go developer, do not hesitate to contact me!
 
+<p align="left">
+  <ul>
+    <li>my <a href="mailto:w33b0x@pm.me">Email</a></li>
+    <li>my <a href="https://t.me/w33b0s">Telegram channel</a></li>
+  </ul>
+</p>
+
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,go,v,cs)](https://skillicons.dev)
+<img align="left" src="https://skillicons.dev/icons?i=html,css,js,py,go,v,cs"></a>
+<a href='https://ko-fi.com/X8X1H1CRK' target='_blank'><img align="right" src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' width="200px"/></a>
+
+
